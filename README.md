@@ -1,3 +1,3 @@
-#hashtag githuv repo
+#hashtag github repo
 
-the first repo from Garagumly.
+the second repo from Garagumly.
